@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Client Server Socker Implementation Over Cloud For The Verification of SQL Injections And Buffer Overflow
+description: First Minor Project completed in College.
+img: 
+importance: 7
+category: College
 ---
 
 Every project has a beautiful feature showcase page.

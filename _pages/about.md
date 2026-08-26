@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently working for 'Consint.AI' and actively seeking Java Backend Roles.
+I am currently working for [Consint.AI](https://www.consint.ai) and actively seeking Java Backend Roles.
 
 I graduated in 2020 from University Of Petroleum and Energy Studies, Dehradun with a Bachelor's degree in Computer Science.
 

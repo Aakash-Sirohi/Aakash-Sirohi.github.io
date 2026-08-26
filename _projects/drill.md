@@ -8,7 +8,7 @@ category: Personal
 related_publications: false
 ---
 
-This project is inspired by improving one's lifestyle. 
+This project is inspired by improving one's lifestyle where user can track their tasks, routines, notes, goals and habits.
 
 
     Technology Stack -
@@ -16,7 +16,7 @@ This project is inspired by improving one's lifestyle.
         Front-end: React.js with Vite
         Back-end: Java, Spring Boot, Hibernate 
         Database: MySQL
-        Cloud: Microsoft Azure
+        Cloud: Migrated from Microsoft Azure to Oracle Cloud Platform
          
     
 Web Application Link - [Drill](https://www.drillweb.co.in)
